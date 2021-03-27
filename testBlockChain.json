@@ -1,1 +1,59 @@
-//add json here when i can be bothered
+{
+   "blocks" : [{
+       "hash" : "",
+       "index": "",
+       "prev": "",
+       "time": "",
+       "nonse": "",
+       "transactions": [{
+           "time": "",
+           "sender": "",
+           "reciever": "",
+           "ammount": "",
+           "hash": ""
+       },
+       {
+            "time": "",
+            "sender": "",
+            "reciever": "",
+            "ammount": "",
+            "hash": ""
+       },
+       {
+            "time": "",
+            "sender": "",
+            "reciever": "",
+            "ammount": "",
+            "hash": ""
+       }]
+   },
+   {
+        "hash" : "",
+        "index": "",
+        "prev": "",
+        "time": "",
+        "nonse": "",
+        "transactions": [{
+            "time": "",
+            "sender": "",
+            "reciever": "",
+            "ammount": "",
+            "hash": ""
+        },
+        {
+            "time": "",
+            "sender": "",
+            "reciever": "",
+            "ammount": "",
+            "hash": ""
+        },
+        {
+            "time": "",
+            "sender": "",
+            "reciever": "",
+            "ammount": "",
+            "hash": ""
+        }]
+
+   }]
+}
